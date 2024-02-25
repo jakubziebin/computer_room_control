@@ -1,3 +1,6 @@
 [submodule "Adafruit_Python_DHT"]
 	path = Adafruit_Python_DHT
 	url = https://github.com/adafruit/Adafruit_Python_DHT.git
+[submodule "DFRobot_SCD4X"]
+	path = DFRobot_SCD4X
+	url = https://github.com/dfrobot/DFRobot_SCD4X
