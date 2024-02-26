@@ -15,3 +15,5 @@ sudo python3 setup.py install
 ```
 pip install -r requirements.txt
 ```
+
+![image](https://github.com/jakubziebin/computer_room_control/assets/116113682/583caf34-c250-4405-8bed-9e3f17a5a3f9)
