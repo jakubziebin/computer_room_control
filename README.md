@@ -1,6 +1,6 @@
 # Computer Room Control
 
-![Computer Room Control App Screenshot](![image](https://github.com/jakubziebin/computer_room_control/assets/116113682/583caf34-c250-4405-8bed-9e3f17a5a3f9))
+![image](https://github.com/jakubziebin/computer_room_control/assets/116113682/583caf34-c250-4405-8bed-9e3f17a5a3f9)
 
 Python scripts designed to monitor and manage the indoor air quality of a computer room at the University. This project utilizes a Raspberry Pi for implementation and includes a textual application for user interaction.
 
@@ -26,4 +26,6 @@ Python scripts designed to monitor and manage the indoor air quality of a comput
     ```
 
 4. **Run the Application**: Execute the Python scripts to start monitoring and controlling the indoor air quality of the computer room.
-   
+       ```python
+   python app.py
+       ```
