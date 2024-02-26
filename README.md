@@ -9,7 +9,7 @@ Python scripts designed to monitor and manage the indoor air quality of a comput
 1. **Clone the Repository**: Begin by creating a virtual environment (venv) and cloning the repository using the `--recurse-submodules` flag to ensure all dependencies are included.
 
     ```bash
-    git clone --recurse-submodules <link_do_repozytorium>
+    git clone --recurse-submodules <link_to_repository>
     ```
 
 2. **Install DHT Library**: Navigate to the `Adafruit_Python_DHT` directory and install the DHT library using the following command:
