@@ -26,6 +26,6 @@ Python scripts designed to monitor and manage the indoor air quality of a comput
     ```
 
 4. **Run the Application**: Execute the Python scripts to start monitoring and controlling the indoor air quality of the computer room.
-       ```python
+       ```
    python app.py
        ```
